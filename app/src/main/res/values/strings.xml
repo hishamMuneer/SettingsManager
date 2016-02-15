@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Settings Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="device_description">Description</string>
+    <string name="device_admin_label">Label</string>
+</resources>
